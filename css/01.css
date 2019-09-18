@@ -1,0 +1,83 @@
+nav a{
+	color: #000;
+}
+.navbar-brand>img{
+	width: 10.8rem;
+	height: 2.3rem;
+}
+.va{
+	margin-top: 1.2rem;
+}
+nav .navbar-toggler{
+	color: rgba(0, 0, 0, 0.5);
+    border-color: rgba(0, 0, 0, 0.1);
+    outline: none;
+}
+nav .navbar-toggler-icon{
+	background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(0, 0, 0, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+.nav-tabs .nav-link.active{
+	color: #f7080b;
+}
+.cont{
+	background-color: #f5f6fa;
+}
+.con_nav>a{
+	color: #919191;
+}
+.subject .nav-link.active{
+	border: none;
+	border-bottom: 1px solid transparent;
+	border-bottom-color: #f7080b;
+}
+.subject .nav-link:hover{
+	border-color: #fff;
+	border-bottom-color: #f7080b;
+	color: #f7080b;
+}
+.subject a{
+	color: #919191;
+}
+.subject li{
+	margin-right: 0.8rem;
+}
+.card{
+	border-radius: 0;
+}
+.text-red{
+	color: #f7080b;
+}
+.card-body{
+	height: 5rem;
+}
+.ri a{
+	display: block;
+}
+.font{
+	font-size: 14px;
+	margin-top: 0.2rem;
+}
+.imgs{
+	width: 5rem;
+	height: 5rem;
+}
+.imgss{
+	width: 2rem;
+	height: 2rem;
+	float: right;
+	margin-top: -0.2rem;
+}
+.bor_col{
+	padding: 2.5rem 0; 
+}
+.bor_col div{
+	border-bottom: 1px solid #757575;
+}
+.bor_col a{
+	text-decoration: none;
+	margin-right: 0.5rem;
+	font-size: 0.9rem;
+}
+.bor_col p{
+	font-size: 0.9rem;
+}
